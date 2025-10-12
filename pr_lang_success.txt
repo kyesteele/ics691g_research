@@ -1,0 +1,86 @@
+language
+AppleScript         100.00
+Apex                100.00
+MATLAB              100.00
+Nushell             100.00
+Less                100.00
+Fortran             100.00
+ColdFusion          100.00
+Elixir               86.96
+R                    83.67
+HCL                  83.61
+Dockerfile           83.33
+Go                   82.72
+HTML                 81.46
+AngelScript          80.00
+Kotlin               78.80
+Java                 78.72
+Python               76.04
+Jupyter Notebook     75.74
+Smarty               75.00
+MDX                  73.29
+MoonBit              73.17
+Ruby                 72.86
+Solidity             72.00
+Markdown             66.67
+JetBrains MPS        66.67
+Assembly             66.67
+Astro                66.67
+CSS                  66.67
+Nim                  65.12
+JavaScript           64.94
+Vue                  64.41
+Rust                 64.13
+Shell                63.95
+Logos                63.64
+Circom               63.49
+Svelte               62.50
+Dart                 61.61
+PHP                  59.59
+TypeScript           58.23
+C#                   57.73
+Haskell              57.14
+QML                  52.00
+CoffeeScript         50.00
+Scala                50.00
+Perl                 50.00
+Gherkin              50.00
+CodeQL               50.00
+ReScript             50.00
+Mustache             50.00
+C                    49.81
+C++                  49.53
+Swift                49.41
+Julia                48.48
+PowerShell           43.53
+Makefile             40.91
+Vim Script           40.00
+1C Enterprise        40.00
+Lua                  35.71
+Erlang               33.33
+Clojure              33.33
+GAP                  33.33
+Zig                  30.71
+Bicep                30.43
+F#                   30.30
+Luau                 25.00
+SCSS                 25.00
+Emacs Lisp           20.00
+CMake                20.00
+RPM Spec             16.67
+TypeSpec             10.34
+TeX                   0.00
+Mojo                  0.00
+OCaml                 0.00
+Handlebars            0.00
+Common Lisp           0.00
+Objective-C           0.00
+Mathematica           0.00
+AL                    0.00
+ActionScript          0.00
+Nextflow              0.00
+Move                  0.00
+Starlark              0.00
+MLIR                  0.00
+Jsonnet               0.00
+PLpgSQL               0.00

@@ -1,0 +1,49 @@
+language
+HTML                346.32
+Circom              270.00
+Makefile            194.50
+Dart                117.51
+Ruby                 54.90
+Kotlin               43.97
+Zig                  34.92
+Swift                34.68
+Emacs Lisp           30.00
+MDX                  29.20
+Go                   29.08
+C                    28.95
+C++                  28.48
+1C Enterprise        28.29
+F#                   27.32
+Lua                  26.67
+CMake                26.56
+TypeScript           26.25
+Java                 26.24
+CSS                  26.00
+Elixir               24.48
+GAP                  23.67
+RPM Spec             23.47
+Python               22.45
+Bicep                22.20
+C#                   21.59
+Gherkin              21.50
+Erlang               21.00
+Solidity             20.80
+PowerShell           20.76
+JavaScript           20.19
+OCaml                20.00
+Jupyter Notebook     20.00
+PHP                  19.78
+Rust                 18.94
+Scala                18.14
+JetBrains MPS        18.00
+TypeSpec             17.35
+AL                   17.33
+Nim                  16.50
+Markdown             16.00
+Shell                16.00
+Dockerfile           15.40
+Vue                  14.81
+Julia                14.67
+Vim Script           10.67
+MoonBit               9.00
+Assembly              8.00

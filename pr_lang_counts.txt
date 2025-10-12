@@ -1,0 +1,86 @@
+language
+Go                  10108
+Python               7191
+TypeScript           6503
+C#                   1985
+Java                 1278
+Rust                 1079
+JavaScript            987
+HTML                  755
+Ruby                  468
+C++                   422
+Kotlin                382
+C                     259
+PHP                   245
+Dart                  224
+MDX                   146
+Zig                   140
+Jupyter Notebook      136
+Shell                  86
+Swift                  85
+PowerShell             85
+Solidity               75
+Elixir                 69
+Circom                 63
+HCL                    61
+Vue                    59
+R                      49
+Nim                    43
+MoonBit                41
+Julia                  33
+F#                     33
+Scala                  32
+TypeSpec               29
+QML                    25
+Bicep                  23
+Makefile               22
+Lua                    14
+Less                   11
+Logos                  11
+CMake                  10
+CSS                     9
+Svelte                  8
+Haskell                 7
+RPM Spec                6
+Dockerfile              6
+Emacs Lisp              5
+Vim Script              5
+AngelScript             5
+Mojo                    5
+TeX                     5
+1C Enterprise           5
+SCSS                    4
+Smarty                  4
+Luau                    4
+ReScript                4
+Gherkin                 4
+Perl                    4
+Objective-C             3
+GAP                     3
+OCaml                   3
+JetBrains MPS           3
+Clojure                 3
+Markdown                3
+Erlang                  3
+Astro                   3
+Assembly                3
+Mustache                2
+Common Lisp             2
+Handlebars              2
+CodeQL                  2
+MATLAB                  2
+CoffeeScript            2
+Apex                    2
+Mathematica             2
+Nextflow                2
+ColdFusion              1
+ActionScript            1
+AL                      1
+Starlark                1
+Move                    1
+AppleScript             1
+Fortran                 1
+MLIR                    1
+Jsonnet                 1
+PLpgSQL                 1
+Nushell                 1

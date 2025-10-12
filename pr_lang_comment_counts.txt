@@ -1,0 +1,49 @@
+language
+Shell               21.00
+AL                  18.00
+GAP                 15.00
+RPM Spec            15.00
+PowerShell          11.77
+F#                  11.56
+C#                   9.69
+TypeSpec             9.25
+Markdown             9.00
+Emacs Lisp           9.00
+Java                 8.66
+Bicep                8.30
+PHP                  8.05
+CMake                8.00
+Kotlin               7.93
+Solidity             7.50
+Go                   6.57
+HTML                 6.30
+Python               5.99
+C++                  5.81
+1C Enterprise        5.67
+Swift                5.29
+Rust                 5.13
+Dockerfile           5.00
+Nim                  5.00
+C                    4.85
+JavaScript           4.84
+Elixir               4.71
+TypeScript           4.62
+Zig                  4.47
+Vue                  4.00
+Julia                3.75
+Dart                 3.42
+MDX                  3.40
+Scala                3.00
+Circom               3.00
+Vim Script           3.00
+Lua                  3.00
+Jupyter Notebook     2.61
+Ruby                 2.52
+Gherkin              2.00
+Erlang               2.00
+CSS                  2.00
+JetBrains MPS        2.00
+Makefile             2.00
+Assembly             1.00
+MoonBit              1.00
+OCaml                1.00
