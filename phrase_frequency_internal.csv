@@ -1,0 +1,6 @@
+Agent,Reduce complexity,Remove dependency,Decoupling,Removed dependency,Better encapsulation,Change inheritance,Messages with SAR,Total Messages,% with SAR
+Claude_Code,2,1,0,0,0,0,3,23296,0.01
+Copilot,1,4,3,1,0,0,9,187227,0.0
+OpenAI_Codex,0,0,0,1,0,0,1,294075,0.0
+Cursor,10,0,0,0,3,0,13,37838,0.03
+Devin,3,29,1,0,3,1,37,169467,0.02

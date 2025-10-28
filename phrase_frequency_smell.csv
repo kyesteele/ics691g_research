@@ -1,0 +1,4 @@
+Agent,Avoid code duplication,Reduce code duplication,Remove code duplication,Eliminate duplicate code,Removing duplicate code,Remove duplicate code,Messages with SAR,Total Messages,% with SAR
+Claude_Code,5,2,0,0,0,0,7,23296,0.03
+Copilot,9,41,5,2,1,1,59,187227,0.03
+Devin,14,23,0,0,0,3,40,169467,0.02
