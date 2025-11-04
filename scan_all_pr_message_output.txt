@@ -1,0 +1,11 @@
+          agent  is_sar  total_requests  total_merged  average_merge_time    bug  internal  external  functional  smell  sar_in_pr_title  sar_in_pr_body  sar_in_pr_comment  sar_in_pr_commit  merge_rate
+0   Claude_Code   False           16565          6579            4.851586      0         0         0           0      0                0               0                  0                 0    0.397163
+1   Claude_Code    True            6731          3740            2.788137   5245       270      1042         813     29               43            6032                  0              1367    0.555638
+2       Copilot   False          131414         73248            9.511489      0         0         0           0      0                0               0                  0                 0    0.557384
+3       Copilot    True           55833         21086           11.352711  50554       876      5757         953    104             1361           54883                  0              1577    0.377662
+4        Cursor   False           31677         17163            3.300773      0         0         0           0      0                0               0                  0                 0    0.541813
+5        Cursor    True            6161          4131            1.834612   5314        13       471         704      0              199            5794                  0               451    0.670508
+6         Devin   False          127119         71762            7.026218      0         0         0           0      0                0               0                  0                 0    0.564526
+7         Devin    True           42348         23937           17.919419  35515       869      6495         304    581             1500           40694                  0              3718    0.565245
+8  OpenAI_Codex   False          265141        196338            2.447897      0         0         0           0      0                0               0                  0                 0    0.740504
+9  OpenAI_Codex    True           28934         22311            2.573405  27659         5      1113         274      1             1883           23852                  0              6157    0.771100
