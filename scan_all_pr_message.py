@@ -48,14 +48,20 @@ print(f"Length of combined_df: {len(combined_df)}")
 
 print('Beginning regex searches.')
 
-# combine all pattern
-patterns = bug_words + internal_words + external_words + functional_words + smell_words
-all_patterns = re.compile('|'.join(map(re.escape, patterns)), re.IGNORECASE)
-bug_patterns = re.compile('|'.join(map(re.escape, bug_words)), re.IGNORECASE)
-internal_patterns = re.compile('|'.join(map(re.escape, internal_words)), re.IGNORECASE)
-external_patterns = re.compile('|'.join(map(re.escape, external_words)), re.IGNORECASE)
-functional_patterns = re.compile('|'.join(map(re.escape, functional_words)), re.IGNORECASE)
-smell_patterns = re.compile('|'.join(map(re.escape, smell_words)), re.IGNORECASE)
+def to_regex_pattern(word):
+    return re.escape(word).replace(r'\*', '.*')
+
+bug_patterns = re.compile('|'.join(to_regex_pattern(w) for w in bug_words), re.IGNORECASE)
+internal_patterns = re.compile('|'.join(to_regex_pattern(w) for w in internal_words), re.IGNORECASE)
+external_patterns = re.compile('|'.join(to_regex_pattern(w) for w in external_words), re.IGNORECASE)
+functional_patterns = re.compile('|'.join(to_regex_pattern(w) for w in functional_words), re.IGNORECASE)
+smell_patterns = re.compile('|'.join(to_regex_pattern(w) for w in smell_words), re.IGNORECASE)
+
+all_patterns = re.compile(
+    '|'.join(to_regex_pattern(w) for w in (bug_words + internal_words + external_words + functional_words + smell_words)),
+    re.IGNORECASE
+)
+
 print('Finished assembling regex patterns.')
 
 print('Searching for sar patterns.')
