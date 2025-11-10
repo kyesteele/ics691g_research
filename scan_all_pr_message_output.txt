@@ -1,11 +1,11 @@
           agent  is_sar  total_requests  total_merged average_merge_time(days)  bug  internal  external  functional  smell  sar_in_pr_title  sar_in_pr_body  sar_in_pr_comment  merge_rate(%)
 0   Claude_Code   False              23            13                     1.87    0         0         0           0      0                0               0                  0             56
 1   Claude_Code    True               3             0                      n/a    2         0         1           0      0                0               3                  0              0
-2       Copilot   False             214           103                     2.93    0         0         0           0      0                0               0                  0             48
-3       Copilot    True              87            41                     4.53   74        10        20           3      1                9              86                  0             47
-4        Cursor   False              95            64                     1.42    0         0         0           0      0                0               0                  0             67
-5        Cursor    True              16             8                     1.03   13         0         3           0      0                3              14                  0             50
-6         Devin   False             355           211                     0.97    0         0         0           0      0                0               0                  0             59
-7         Devin    True              82            37                     0.96   71         4         7           1      4                5              81                  0             45
-8  OpenAI_Codex   False            1317          1049                     0.45    0         0         0           0      0                0               0                  0             80
-9  OpenAI_Codex    True              96            78                     0.24   79         1         5          15      0               14              92                  0             81
+2       Copilot   False             207           102                     2.96    0         0         0           0      0                0               0                  0             49
+3       Copilot    True              94            42                     4.43   74        19        22           3      1               12              93                  0             45
+4        Cursor   False              94            63                     1.44    0         0         0           0      0                0               0                  0             67
+5        Cursor    True              17             9                     0.91   13         1         4           0      0                3              15                  0             53
+6         Devin   False             346           208                     0.98    0         0         0           0      0                0               0                  0             60
+7         Devin    True              91            40                     0.91   71        12        10           1      4                9              90                  0             44
+8  OpenAI_Codex   False            1301          1036                     0.45    0         0         0           0      0                0               0                  0             80
+9  OpenAI_Codex    True             112            91                     0.24   79        17         5          15      1               19             103                  0             81
