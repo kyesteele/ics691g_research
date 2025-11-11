@@ -1,11 +1,7 @@
 internal_words = [
     "Decoupling",
     "Reduce complexity",
-    "Change inheritance",
-    "Changed inheritance",
-    "Changing inheritance",
+    "Change* inheritance",
     "Better encapsulation",
-    "Remove dependency",
-    "Removed dependency",
-    "Removing dependency",
+    "Remov* dependency",
 ]
