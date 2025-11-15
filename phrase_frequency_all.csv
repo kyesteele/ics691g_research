@@ -1,6 +1,6 @@
-Agent,Handle,Improve readability,Improved performance,Performance enhancement,Improving performance,More efficient,Better readability,Avoid code duplication,Improve performance,Reduce code duplication,Reduce complexity,Remove dependency,Minor fixes,Get rid of,Remove code duplication,To be more robust,Decoupling,Removed dependency,Eliminate duplicate code,Removing duplicate code,Remove duplicate code,More compatible,UI changes,Improve usability,New module,Better encapsulation,Additional fixes,Move functionality,More flexibility,Change inheritance,Messages with SAR,Total Messages,% with SAR
-Claude_Code,1428,17,127,2,38,16,35,5,1,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1676,23296,7.19
-Copilot,1617,4,0,0,0,104,11,9,3,41,1,4,9,2,5,1,3,1,2,1,1,4,3,0,0,0,0,0,0,0,1826,187227,0.98
-OpenAI_Codex,6261,13,9,0,0,0,135,0,8,0,0,0,52,1,0,0,0,1,0,0,0,0,3,12,0,0,0,0,0,0,6495,294075,2.21
-Cursor,376,2,13,0,0,3,16,0,8,0,10,0,0,1,0,0,0,0,0,0,0,0,0,0,73,3,0,0,0,0,505,37838,1.33
-Devin,4201,11,14,0,5,6,130,14,24,23,3,29,6,11,0,3,1,0,0,0,3,0,24,0,8,3,1,29,3,1,4553,169467,2.69
+,agent,Minor fixes,Get rid of,Additional fixes,Handle,Decoupling,Reduce complexity,Chang* inheritance,Better encapsulation,Remov* dependency,More flexibility,Better readability,Improve readability,Increase readability,Readability improvements,Improv* performance,More manageable,More efficient*,Performance enhancement,More compatible,Improve usability,To be more robust,Easier to understand,New module,Fix some GUI,Move functionality,UI changes,Avoid code duplication,Avoid duplicate code,Code duplication removed,Delet* duplicate code,Eliminate duplicate code,Reduce code duplication,Refactored duplicate code,Remov* code duplication,Remov* duplicate code
+0,Claude_Code,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Copilot,0,0,0,74,7,1,1,1,9,0,4,4,0,0,5,0,3,0,0,0,0,6,3,0,0,0,0,0,0,0,0,1,0,0,0
+2,OpenAI_Codex,0,0,0,79,0,0,0,0,17,0,1,2,0,0,0,1,0,0,0,0,0,1,15,0,0,0,0,0,0,0,0,0,0,1,0
+3,Cursor,0,1,0,12,0,0,0,0,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Devin,0,0,0,71,0,1,1,0,10,1,1,2,0,0,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,1
